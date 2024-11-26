@@ -2,7 +2,7 @@ module github.com/katechun/gorm-adapter/v3
 
 go 1.20
 
-replace github.com/katechun/gorm-adapter/v3 => ./
+replace github.com/casbin/gorm-adapter/v3 => ./
 
 require (
 	github.com/katechun/casbin/v2 v2.100.0
