@@ -1,9 +1,9 @@
-module github.com/casbin/gorm-adapter/v3
+module github.com/katechun/gorm-adapter/v3
 
 go 1.20
 
 require (
-	github.com/casbin/casbin/v2 v2.100.0
+	github.com/katechun/casbin/v2 v2.100.0
 	github.com/glebarez/sqlite v1.7.0
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/lib/pq v1.10.2
